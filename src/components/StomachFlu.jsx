@@ -12,9 +12,9 @@ const StomachFlu = () => {
 
         <div className="z-10 mt-7 max-w-6xl w-full flex flex-col md:flex-row md:items-start md:justify-between space-y-8 md:space-y-0">
           <div className="relative md:w-1/2 md:ml-8 flex justify-center items-center">
-            <div className="absolute md:h-[37rem] md:w-[28rem] w-[105%] h-[38rem]  bg-white bg-opacity-25 border-4 border-blue-300 rounded-3xl"></div>
+            <div className="absolute md:h-[38rem] md:w-[28rem] w-[105%] h-[38rem]  bg-white bg-opacity-25 border-4 border-blue-300 rounded-3xl"></div>
 
-            <div className="relative w-[93%] md:w-[25rem] md:h-[34rem] bg-white  rounded-3xl shadow-lg">
+            <div className="relative w-[93%] md:w-[25rem] md:h-[35rem] bg-white  rounded-3xl shadow-lg">
               <img
                 src={stomachFluImage}
                 alt="Stomach Flu IV"
